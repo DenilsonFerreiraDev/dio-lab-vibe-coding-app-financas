@@ -168,13 +168,8 @@ O principal aprendizado foi entender que a qualidade dos resultados gerados pela
 
 ## Aplicação Publicada
 
-Adicionar aqui o link público gerado pelo Lovable.
-
-Exemplo:
-
-```text
 https://thoughtful-journey-maker.lovable.app
-```
+
 
 ---
 
